@@ -3,7 +3,7 @@ package com.fssa.sa.sampleprogs.day18.solved;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import com.fssa.steffy.sampleprogs.day18.solved.*;
+
 
 public class TestValidationUtil {
 	
